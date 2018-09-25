@@ -1,0 +1,35 @@
+* Reqirements
+** Parents can enter cookie orders
+- can edit order up to deadline
+- multiple rounds
+** Cookie parent can total up cookies ordered
+- determine how many cases of each cookie type are needed
+  - round up a case when neede
+  - track extra cookies in rounded up cases for next order
+- track how many cookies each scout sold
+** App/website
+- needs to be a web/app so parents can reach it from browser
+** Security
+- need username/password for login
+  - sign up for account?
+  - pre-create accounts? 
+  - need something easy to start
+- https
+
+* Thing to figure out
+** how to host site online?
+- digital ocean?
+- aws?
+** what to write in? what framework?
+*** ruby
+- rails or sinatra? or?
+*** some javascript thing? 
+- i don't know any js or the ecosystem or frameworks
+** how to get accounts for kids/parents
+
+
+* Random brainstorming
+- needs to work for multiple troops
+- keep each troop separate
+- need email for parent
+- probably use some database to track each troop?
